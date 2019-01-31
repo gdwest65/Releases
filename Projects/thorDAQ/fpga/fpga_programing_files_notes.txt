@@ -1,0 +1,9 @@
+1- Submitted on Jan 31,2019 by Ashraf Q. Siddiqui
+
+Supported features		    : 2p/3p
+FPGA version number			: 0x01010001
+FPGA codebase on GIT		: thorlabs/FPGA 
+FPGA codebase commit number : 1f94155
+FPGA programing file area at: git_commit_1f94155/
+md5sum for bit file: 679fb26b3bb669733859e10c9d62336a
+md5sum for mcs file: 83d0b31892cf14b5b51ee3a285a32cc2
