@@ -1,0 +1,22 @@
+Requirements for Installing ThorImageLS 64bit Software
+
+- Windows 7 or 10 64-bit
+- .Net 3.5
+- C++ Redistributable 2012
+- If using PMT2100 style PMTs: Keysight drivers are required 17.2.201812.0
+- If using TSI Camera: ThorCam 3.2
+
+
+Installing ThorImageLS Software - New Install
+- Start installer by selecting Setup.exe
+- Agree to License Agreement
+- Enter Customer Information and Select the "Next" button
+- For Destingation Loaction, use default location and select "Next"
+- At the Select Features window,
+	- select the type of Instrument (Example: ELC)
+	- select the "ThorDAQ" feature
+	- select "Next" button
+- Continue to select the Default options to complete the Install
+- When Prompted to 
+
+
